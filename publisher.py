@@ -51,7 +51,7 @@ class AqiPublisher:
             The date you want to fetch the data
 
         interval : int (default: 60)
-            The number of seconds to wait between queries to the OpenSky API.
+            The number of seconds to wait between queries to the Airnow API.
         """
         self.topic = topic
         self.zipcode = zipcode,
