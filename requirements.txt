@@ -1,0 +1,5 @@
+numpy
+pandas
+requests
+aiohttp
+pyensign>=0.7.1b1
